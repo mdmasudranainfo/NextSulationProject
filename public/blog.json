@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Machine Learning",
+    "author": "John Doe",
+    "date": "2023-07-18",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "https://i.ibb.co/V2vj4c2/image.png"
+  },
+  {
+    "id": 2,
+    "title": "The Importance of Regular Exercise",
+    "author": "Jane Smith",
+    "date": "2023-07-17",
+    "content": "Vivamus aliquet mi sit amet interdum mollis...",
+    "image": "https://i.ibb.co/ZV5cjxr/image2.png"
+  },
+  {
+    "id": 3,
+    "title": "10 Must-Visit Travel Destinations",
+    "author": "Emily Johnson",
+    "date": "2023-07-16",
+    "content": "Curabitur luctus felis ac purus ullamcorper...",
+    "image": "https://i.ibb.co/V2vj4c2/image.png"
+  },
+  {
+    "id": 4,
+    "title": "A Beginner's Guide to Photography",
+    "author": "Michael Lee",
+    "date": "2023-07-15",
+    "content": "Pellentesque ac massa vitae nisi facilisis...",
+    "image": "https://i.ibb.co/M2d58g5/image5.png"
+  },
+  {
+    "id": 1,
+    "title": "Getting Started with Machine Learning",
+    "author": "John Doe",
+    "date": "2023-07-18",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "https://i.ibb.co/V2vj4c2/image.png"
+  },
+  {
+    "id": 2,
+    "title": "The Importance of Regular Exercise",
+    "author": "Jane Smith",
+    "date": "2023-07-17",
+    "content": "Vivamus aliquet mi sit amet interdum mollis...",
+    "image": "https://i.ibb.co/ZV5cjxr/image2.png"
+  },
+  {
+    "id": 3,
+    "title": "10 Must-Visit Travel Destinations",
+    "author": "Emily Johnson",
+    "date": "2023-07-16",
+    "content": "Curabitur luctus felis ac purus ullamcorper...",
+    "image": "https://i.ibb.co/V2vj4c2/image.png"
+  },
+  {
+    "id": 4,
+    "title": "A Beginner's Guide to Photography",
+    "author": "Michael Lee",
+    "date": "2023-07-15",
+    "content": "Pellentesque ac massa vitae nisi facilisis...",
+    "image": "https://i.ibb.co/M2d58g5/image5.png"
+  }
+]
