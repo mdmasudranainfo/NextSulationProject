@@ -21,7 +21,10 @@ const Product = () => {
 
       <div className=" grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-5">
         {products?.map(Product => (
-          <div className="p-3 shadow-xl rounded-lg" key={Product?.id}>
+          <div
+            className="p-3 shadow-xl hover:shadow-2xl ease-in duration-300 rounded-lg"
+            key={Product?.id}
+          >
             <div className="">
               <img src={Product?.image} alt="" />
             </div>

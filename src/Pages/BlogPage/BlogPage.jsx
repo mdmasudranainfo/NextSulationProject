@@ -20,17 +20,13 @@ const BlogPage = () => {
             data-aos="fade-up"
             className=" shadow-sm rounded-lg"
           >
-            <img
-              className="max-w-full"
-              src="https://i.ibb.co/V2vj4c2/image.png"
-              alt=""
-            />
+            <img className="max-w-full" src={blog?.image} alt="" />
 
             <div className=" p-5">
               {/* icone */}
 
               <div className="flex gap-3 ">
-                <div className=" inline-block text-center ease-in duration-200 hover:bg-[#30C736] bg-neutral rounded-full py-2 px-1 text-white mt-[-70px] ">
+                <div className=" inline-block text-center ease-in duration-200 hover:bg-primary bg-neutral rounded-full py-2 px-1 text-white mt-[-70px] ">
                   <h2 className="text-4xl font-semibold">20</h2>
                   <span className="block">Nov</span>
                   <svg
@@ -59,9 +55,7 @@ const BlogPage = () => {
                 </div>
                 <div className="">
                   <p className="text-lg text-[#FE8D4D]">MOBILE APP</p>
-                  <h3 className="text-xl font-semibold">
-                    Global Android Programmer Meetup 2020{' '}
-                  </h3>
+                  <h3 className="text-xl font-semibold">{blog?.title}</h3>
                 </div>
               </div>
 
